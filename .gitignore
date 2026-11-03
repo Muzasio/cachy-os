@@ -1,0 +1,3 @@
+# Docs stay local; only the README screenshot folder is uploaded
+/docs/*
+!/docs/images/
